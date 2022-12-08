@@ -25,48 +25,49 @@
             android:layout_width="273dp"
             android:layout_height="58dp"
             android:ems="10"
+            android:hint="Introduce tu nombre"
             android:inputType="textPersonName"
-            android:text="@string/Nombre" />
+            />
 
         <EditText
             android:id="@+id/Descripcion"
             android:layout_width="273dp"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="@string/Descripcion" />
+            android:hint="Descripción del evento"
+            android:inputType="textPersonName" />
 
         <EditText
             android:id="@+id/Direccion"
             android:layout_width="272dp"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="@string/Direccion" />
+            android:hint="Dirección"
+            android:inputType="textPersonName" />
 
         <EditText
             android:id="@+id/Precio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="numberDecimal"
-            android:text="@string/Precio" />
+            android:hint="Precio"
+            android:inputType="numberDecimal" />
 
         <EditText
             android:id="@+id/Fecha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="date"
-            android:text="@string/Fecha" />
+            android:hint="Día del evento"
+            android:inputType="date" />
 
         <EditText
             android:id="@+id/Aforo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="number"
-            android:text="@string/Aforo" />
+            android:hint="Capacidad permitida"
+            android:inputType="number" />
 
     </LinearLayout>
 

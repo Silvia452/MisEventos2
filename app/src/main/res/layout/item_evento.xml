@@ -14,19 +14,19 @@
         app:layout_constraintHorizontal_bias="0.056"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.026"
+        app:layout_constraintVertical_bias="0.238"
         tools:srcCompat="@tools:sample/avatars" />
 
     <LinearLayout
         android:layout_width="265dp"
         android:layout_height="277dp"
+        android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.986"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        android:orientation="vertical">
+        app:layout_constraintVertical_bias="0.317">
 
         <TextView
             android:id="@+id/tvNombre"
