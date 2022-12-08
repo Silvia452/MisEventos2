@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Event listing</string>
+    <string name="Cerrar">CLOSE</string>
+    <string name="Guardar">SAVE</string>
+    <string name="Nombre">Introduce your name</string>
+    <string name="Descripcion">Description of the event</string>
+    <string name="Direccion">Direction</string>
+    <string name="Precio">Event price</string>
+    <string name="Fecha">Date of the event</string>
+    <string name="Aforo">Capacity allowed</string>
+    <string name="Evento1">Ice skating</string>
+    <string name="Evento1d">Skating on the ice rink in the square</string>
+    <string name="modificar">Modify</string>
+    <string name="bt_alta_eventos">Sign up for the event</string>
+    <string name="eliminar">Delete</string>
+</resources>

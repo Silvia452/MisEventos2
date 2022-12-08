@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Listado de Eventos</string>
+    <string name="Cerrar">CERRAR</string>
+    <string name="Guardar">GUARDAR</string>
+    <string name="Nombre">Introduzca su nombre</string>
+    <string name="Descripcion">Descripcion del evento</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Precio">Precio del evento</string>
+    <string name="Fecha">Fecha del evento</string>
+    <string name="Aforo">Aforo permitido</string>
+    <string name="Evento1">Patinar sobre hielo</string>
+    <string name="Evento1d">Patinar en la pista de hielo de la plaza</string>
+    <string name="modificar">Modificar</string>
+    <string name="bt_alta_eventos">Dar de alta el evento</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
